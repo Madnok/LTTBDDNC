@@ -2,3 +2,5 @@ tai node
 log git pull bai
 
 cmd > npx create-expo-app my-app
+
+exp://172.18.1.215:19000
