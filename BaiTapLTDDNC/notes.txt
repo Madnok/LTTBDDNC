@@ -1,0 +1,4 @@
+tai node
+log git pull bai
+
+cmd > npx create-expo-app my-app
